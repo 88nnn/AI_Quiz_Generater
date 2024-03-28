@@ -1,2 +1,0 @@
-from quiz_type import subjective_quiz.py
-from quiz_type import multiple_choice_quiz.py
